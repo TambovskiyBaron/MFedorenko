@@ -10,4 +10,5 @@ def derevo():
           print("Лох")
           break
        print("Неправильно, это была ваша", k, "попытка")
+       continue
 derevo()
